@@ -7,8 +7,8 @@ public class P04_Scanner {
         Scanner scan = new Scanner(System.in);
         /*
         1- Kullanıcıdan ad/soyad/yas/mail adresi/şifre bilgileirini alıp
-    sisteme kaydedildiğini aşağıdaki formatta yazdırın.
-    *****       KAYIT BAŞARILI      *****
+        sisteme kaydedildiğini aşağıdaki formatta yazdırın.
+         *****       KAYIT BAŞARILI      *****
         Adınız: Tarık
         Soyadınız: Yiğit
         Yaşınız:42
@@ -29,4 +29,7 @@ public class P04_Scanner {
         System.out.println("*****       KAYIT BAŞARILI      *****\n"+"\tAdiniz :"+name+"\n\tSoyadiniz: "+surname+
                 "\n\tYasınız:"+age+"\n\tMail Adresiniz:"+mail+"\n\tSifreniz:"+pass+"\nşeklinde sistemimize kaydınız başarıyla tamamlanmıştır.");
     }
+
+
+
 }
