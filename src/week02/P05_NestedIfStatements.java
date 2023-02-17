@@ -1,5 +1,7 @@
 package week02;
 
+import java.util.Scanner;
+
 public class P05_NestedIfStatements {
     public static void main(String[] args) {
 
@@ -7,11 +9,12 @@ public class P05_NestedIfStatements {
         /*
         1- Kullanıcnın EYT li olup olmadığını tespit eden ve emekli olup olamayacağını yazdırın.
            Olamıyorsa kaç prim günü eksiği olduğunu yazdırın
-             KURALLAR
-             : Kanun, 8 Eylül 1999 ve öncesinde sigorta girişi yapılanlar için geçerlidir.
+           KURALLAR
              : Kadınlar: 5000 prim günü, 20 yıl hizmet süresi.
-             : Erkekler: 5000 prim günü, 25 yıl hizmet süresi.
+             : Erkekler: 5500 prim günü, 25 yıl hizmet süresi.
          */
+
+
 
         /*
      2-Kullanicidan aldigi urun adedi ve ve liste fiyatini alin, kullaniciya musteri
@@ -22,7 +25,7 @@ public class P05_NestedIfStatements {
 
 
 
-    /*
+        /*
     3- Kullanicidan gunu ismini girmesini isteyin, girilen gun hafta ici bir gun ise
     “Simdi calisma zamani tatile .. gun var” seklinde hafta sonu tatiline kac
     gun kaldigini yazdirin, girilen gun hafta sonu ise “Simdi dinlenme

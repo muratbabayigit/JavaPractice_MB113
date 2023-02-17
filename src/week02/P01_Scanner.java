@@ -43,6 +43,7 @@ public class P01_Scanner {
         Yukarıda aldığınız bilgileri
          Kullanıcı : T.Yiğit, 42
          şeklinde yazdırın
+
          */
 
 
