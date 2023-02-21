@@ -21,10 +21,10 @@ public class P06_TernaryOperator {
 
         /*
 
-        3-Kullanicidan bir sayi isteyin, sayiyi kontrol edip 5 ile bolunebiliyorsa
-        “Sayi 5’in tam kati” yazdirin.
+        3-Kullanicidan iki adet sayi isteyin ve büyük olmayan sayiyi yazdirin
 
          */
 
     }
+
 }
